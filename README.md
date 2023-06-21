@@ -5,7 +5,7 @@ Library for drawing dashed lines in Flutter.
 
 Draw a dashed rectangle with animated dashes that move around the border:
 
-https://github.com/lukehutch/flutter_draw_dashed_line/assets/811305/e2e9f068-d385-4aa3-bf4a-c27d98b47a2c
+![image](https://github.com/lukehutch/flutter_draw_dashed_line/assets/811305/57762079-83fb-4778-90b2-bf96665def27)
 
 ```dart
 class DashedRectWidget extends StatefulWidget {
