@@ -1,6 +1,8 @@
 # flutter_draw_dashed_line
 Library for drawing dashed lines in Flutter.
 
+This library is needed because the Flutter core team [currently has no interest](https://github.com/flutter/flutter/issues/4858) in adding Skia-accelerated dashed lines to the Flutter engine.
+
 ### Usage:
 
 Draw a dashed rectangle with animated dashes that move around the border:
